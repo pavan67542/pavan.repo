@@ -1,4 +1,6 @@
-#this is done remotelyu
+
+#this is done remotelyu and locally
+
 a=5
 b=10
 c=15
